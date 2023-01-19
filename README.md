@@ -6,6 +6,8 @@ I am Mohnish Mishra
 <!--
 **MohnishMishra/MohnishMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+   ## Watch my contribution graph being eaten by a Snake! 🐍
+![snake gif](https://github.com/MohnishMishra/MohnishMishra/blob/output/github-contribution-grid-snake.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
