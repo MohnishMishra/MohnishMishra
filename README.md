@@ -1,7 +1,9 @@
 ## Hi there 👋
 ### I am Mohnish Mishra
-<!--
+
 **“I'm working on a masterpiece and I haven't quite finished it yet”**
+<!--
+
 <h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2>
 <a href = 'https://www.linkedin.com/in/abhishek-mallick-121740240/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/Abhishek____M'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
