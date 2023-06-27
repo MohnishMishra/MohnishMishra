@@ -3,12 +3,12 @@
 
 **“I'm working on a masterpiece and I haven't quite finished it yet”**
 
-   ## Watch my contribution graph being eaten by a Snake! 🐍
+ <!--  ## Watch my contribution graph being eaten by a Snake! 🐍
 ![snake gif](https://github.com/MohnishMishra/MohnishMishra/blob/output/github-contribution-grid-snake.gif)
 
 ![Visitor Count](https : //profile-counter.glitch.me/MohnishMishra/count.svg)
 
-<!--
+
 **MohnishMishra/MohnishMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
