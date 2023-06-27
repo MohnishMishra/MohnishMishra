@@ -3,6 +3,13 @@
 
 **“I'm working on a masterpiece and I haven't quite finished it yet”**
 
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
+
+
+
  <!--  ## Watch my contribution graph being eaten by a Snake! 🐍
 ![snake gif](https://github.com/MohnishMishra/MohnishMishra/blob/output/github-contribution-grid-snake.gif)
 
