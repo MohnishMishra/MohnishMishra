@@ -20,12 +20,12 @@ Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-
+-->
 
 
   ## Watch my contribution graph being eaten by a Snake! 🐍
 ![snake gif](https://github.com/MohnishMishra/MohnishMishra/blob/output/github-contribution-grid-snake.gif)
--->
+
 
 
  <!--
