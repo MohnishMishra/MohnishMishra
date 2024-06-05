@@ -22,11 +22,11 @@ Skills
 
 -->
 
-
+<!--
   ## Watch my contribution graph being eaten by a Snake! 🐍
 ![snake gif](https://github.com/MohnishMishra/MohnishMishra/blob/output/github-contribution-grid-snake.gif)
 
-
+-->
 
  <!--
 ![Visitor Count](https : //profile-counter.glitch.me/MohnishMishra/count.svg)
